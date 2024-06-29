@@ -4,6 +4,15 @@
 ## Description
 This program is a simple API server for bulletin boards using fastapi and sqlite3.
 
+## Feature
+
+- Account Management
+    - Create Account
+    - Login
+- Post
+    - Reply function also available
+- Edit Message Feature
+
 ## How to use
 ### Install modules
 ```
