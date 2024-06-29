@@ -1,6 +1,19 @@
 
 # API Documentation
 
+## Description
+This program is a simple API server for bulletin boards using fastapi and sqlite3.
+
+## How to use
+### Install modules
+```
+pip3 install -r requirements.txt
+```
+### Run API server
+```
+uvicorn main:app --reload 
+```
+
 ## HTTP Endpoints
 
 ### /register (POST)
